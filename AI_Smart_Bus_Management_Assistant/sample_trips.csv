@@ -1,0 +1,4 @@
+bus_id,trip_date,actual_departure,students_count
+BUS01,2026-10-26,08:10,38
+BUS02,2026-10-27,08:13,42
+BUS03,2026-10-28,08:35,35
